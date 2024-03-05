@@ -21,6 +21,9 @@ Hey there, fellow data adventurers! 🚀 Just a heads up, I'm not a data scienti
   <a href="https://www.postgresql.org/">
    <img align="center" alt="postgres" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg">
   </a>
+  <a href="https://www.mysql.com/">
+   <img align="center" alt="MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  </a>
   <a href="https://www.jetbrains.com/pt-br/datagrip/">
    <img align="center" alt="datagrip" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/datagrip/datagrip-original.svg">
   </a>
@@ -28,7 +31,7 @@ Hey there, fellow data adventurers! 🚀 Just a heads up, I'm not a data scienti
    <img align="center" alt="Jupyter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg">
   </a>
   <a href="https://matplotlib.org/">
-   <img align="center" alt="Jupyter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg">
+   <img align="center" alt="Matplotlib" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg">
   </a>
   <a href="https://spark.apache.org/">
    <img align="center" alt="spark" height="30" width="50" src="https://github.com/valohai/ml-logos/blob/master/spark.svg">
