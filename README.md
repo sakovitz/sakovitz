@@ -18,6 +18,9 @@ Hey there, fellow data adventurers! 🚀 Just a heads up, I'm not a data scienti
   <a href="https://www.r-project.org/">
    <img align="center" alt="R" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
   </a>
+  <a href="https://posit.co/download/rstudio-desktop/">
+   <img align="center" alt="RStudio" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg">
+  </a>
   <a href="https://www.postgresql.org/">
    <img align="center" alt="postgres" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg">
   </a>
@@ -32,6 +35,15 @@ Hey there, fellow data adventurers! 🚀 Just a heads up, I'm not a data scienti
   </a>
   <a href="https://matplotlib.org/">
    <img align="center" alt="Matplotlib" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg">
+  </a>
+  <a href="https://numpy.org/">
+   <img align="center" alt="Numpy" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg">
+  </a>
+  <a href="https://pandas.pydata.org/">
+   <img align="center" alt="Pandas" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
+  </a>
+  <a href="https://www.postman.com/">
+   <img align="center" alt="Postman" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg">
   </a>
   <a href="https://spark.apache.org/">
    <img align="center" alt="spark" height="30" width="50" src="https://github.com/valohai/ml-logos/blob/master/spark.svg">
