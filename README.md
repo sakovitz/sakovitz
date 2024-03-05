@@ -24,7 +24,10 @@ Hey there, fellow data adventurers! 🚀 Just a heads up, I'm not a data scienti
   <a href="https://www.jetbrains.com/pt-br/datagrip/">
    <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/datagrip/datagrip-original.svg">
   </a>
-  <a href="https://spark.apache.org//">
+  <a href="https://jupyter.org/">
+   <img align="center" alt="Java" height="30" width="80" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg">
+  </a>
+  <a href="https://spark.apache.org/">
    <img align="center" alt="Java" height="30" width="80" src="https://github.com/valohai/ml-logos/blob/master/spark.svg">
   </a>
   
