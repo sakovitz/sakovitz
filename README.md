@@ -1,6 +1,7 @@
 ## 👶 Data Kiddo Alert! 👶
 Hey there, fellow data adventurers! 🚀 Just a heads up, I'm not a data scientist, I'm more like a Data Kiddo - still learning to walk in the vast playground of data. Expect some adorable coding mishaps and a sprinkle of data-related babble. Let's embark on this data-driven playdate together! 🍼✨
 
+### 🏆 Trophies 🏆
 [![trophy](https://github-profile-trophy.vercel.app/?username=sakovitz&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <hr></hr>
