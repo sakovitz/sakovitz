@@ -1,5 +1,31 @@
-## 👶 Data Kiddo Alert! 👶
-Hey there, fellow data adventurers! 🚀 Just a heads up, I'm not a data scientist, I'm more like a Data Kiddo - playing in the vast playground of data. Expect some adorable coding mishaps and a sprinkle of data-related babble. Let's embark on this data-driven playdate together! 🍼✨
+## 🟩 Welcome to the Source
+
+Now **Senior Analytics Engineer**.
+
+I don’t just transform data —  
+I *civilize* it.
+
+I design models that outlive product strategy changes, dashboards that tell the truth,  
+and semantic layers that keep chaos at the door.
+
+Where there is ambiguity, I define metrics.  
+Where there is duplication, I refactor.  
+Where someone asks _“por que a métrica desse dashboard não bate?”_ (PT BR 😁) 
+I sigh… and investigate.
+
+**SQL is my first language.  
+Python is my religion.  
+Documentation? …I'm improving.**
+
+> _"The question is not *can* you query the data —  
+> but whether you should."_  
+— Morpheus (probably, if he worked with metrics layers)
+
+Fork what you must, learn what you can —  
+and remember:
+
+🟢 _There is no single source of truth. Only versions._
+
 
  <hr></hr>
 <div style="display: inline_block">
