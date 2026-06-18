@@ -1,6 +1,6 @@
 ## 🟩 Welcome to the Source
 
-Now **Senior Analytics Engineer**.
+**Senior Analytics Engineer**.
 
 I don’t just transform data —  
 I *civilize* it.
